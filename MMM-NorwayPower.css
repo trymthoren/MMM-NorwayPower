@@ -1,0 +1,32 @@
+.MMM-NorwayPower .price-now {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.MMM-NorwayPower .price-low {
+    color: #4CAF50;
+}
+
+.MMM-NorwayPower .price-medium {
+    color: #FFC107;
+}
+
+.MMM-NorwayPower .price-high {
+    color: #F44336;
+}
+
+.MMM-NorwayPower .graph-container {
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.MMM-NorwayPower .price-info {
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+.MMM-NorwayPower .average {
+    margin-top: 5px;
+    font-size: 0.9em;
+}

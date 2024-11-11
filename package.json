@@ -1,0 +1,19 @@
+{
+  "name": "mmm-norwaypower",
+  "version": "1.0.0",
+  "description": "MagicMirror² module for displaying Norwegian electricity prices from hvakosterstrommen.no",
+  "main": "MMM-NorwayPower.js",
+  "author": "Trym Thoren",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trymthoren/MMM-NorwayPower.git"
+  },
+  "keywords": [
+    "magicmirror",
+    "electricity",
+    "norway",
+    "power",
+    "strømpris"
+  ]
+}

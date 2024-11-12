@@ -1,6 +1,5 @@
 Module.register("MMM-NorwayPower", {
     defaults: {
-        updateInterval: 3600000, // 1 hour
         region: "NO1",  // Oslo/Øst-Norge
         showGraph: true,
         showAverage: true,
@@ -8,7 +7,8 @@ Module.register("MMM-NorwayPower", {
         animationSpeed: 1000,
         priceUnit: "øre/kWh",
         coloredText: true,
-        language: "en"
+        language: "en",
+        updateInterval: 3600000 // 1 hour
     },
 
     requiresVersion: "2.17.0",

@@ -65,6 +65,11 @@ cd ~/MagicMirror/modules/MMM-NorwayPower
 git pull
 npm install
 ```
+
+![MMM-NorwayPower Screenshot](screenshot.png)
+
+
+
 ## Contributing
 Feel free to contribute to this module by:
 
